@@ -1,4 +1,4 @@
-# NewEngineeringManager
+# New Engineering Manager
 Resources For Engineering Managers
 
 <b>Videos:</b>
