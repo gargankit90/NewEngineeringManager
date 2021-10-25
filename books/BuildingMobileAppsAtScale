@@ -1,0 +1,23 @@
+RFC's
+Think about RFC's or PRD's, it helps in clearing requirements, scope creep.
+Can iOS and Android team work together on RFC document
+Rather than more planning focus more on iteration.
+Broadcast RFC to more ppl.
+
+App Size:
+Every 6 MB increase in an APK’s size saw a 1% decrease in install conversion rates.
+Download completion rate was 30% higher for an APK with 10MB size, than for one with 100MB. 
+70% of people in emerging markets consider app size before downloading the application.
+App bundles can help here.
+
+Force App Updates:
+Helps in retiring old api versions
+Helps in fixing security or privacy vulnerabiity
+Helps in fixing severe bug or crash
+
+Advanced code quality check:
+Sooner we catch issues better it would be.
+Linting and static code analysis code be useful.
+Code Formatting -> KtLint has code formatter
+Linting -> Android Lint, KtLint, deteKt
+Code Coverage -> Jacoco
